@@ -1,6 +1,7 @@
 # Streaming Guardrail
 
 This is the official repo for our course project of CS762 in fall 2025. 
+@Xinyan Wang (xinyan-wang-stat) & @Ruqi Yang (yangruqi0303)
 
 ![Workflow: streaming safety detection for harmful vs benign user queries](figure-workflow.png)
 
